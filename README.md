@@ -71,7 +71,7 @@ Whether it's logging an issue, suggesting a feature, or helping with docs — yo
 
 - 🌐 Website: [https://echolog.dev](https://echolog.dev) *(coming soon)*
 - 🗣️ Discussions: [GitHub Discussions](https://github.com/Echolog-Org/Echolog-public/discussions)
-- 💬 Chat: [Join our Slack](https://join.slack.com/t/echolog-dev/shared_invite/...) *(invite link placeholder)*
+- 💬 Chat: [Join our Slack](https://join.slack.com/t/echolog-workspace/shared_invite/zt-33dsfio39-cYxMH87g2l7Q~NFOmtNuRw)
 - 🧠 Docs: Coming soon at [docs.echolog.dev](https://docs.echolog.dev)
 
 ---
